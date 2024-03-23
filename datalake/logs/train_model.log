@@ -1,0 +1,46 @@
+2024-03-23 10:59:24,386:INFO:Starting make linear regressor
+2024-03-23 10:59:24,386:INFO:Make linear regressor completed
+2024-03-23 10:59:24,387:INFO:Starting make knn regressor
+2024-03-23 10:59:24,387:INFO:Make knn regressor completed
+2024-03-23 10:59:27,712:INFO:Starting compute metrics
+2024-03-23 10:59:27,715:INFO:Compute metrics completed
+2024-03-23 11:05:01,837:INFO:Starting train
+2024-03-23 11:05:01,839:INFO:Starting load train and test datasets
+2024-03-23 11:05:01,882:INFO:Load train and test datasets completed
+2024-03-23 11:05:01,883:INFO:Starting make linear regressor
+2024-03-23 11:05:01,883:INFO:Make linear regressor completed
+2024-03-23 11:05:01,883:INFO:Starting make knn regressor
+2024-03-23 11:05:01,883:INFO:Make knn regressor completed
+2024-03-23 11:05:02,562:INFO:Starting load model from disck
+2024-03-23 11:05:02,564:INFO:Load model from disck completed
+2024-03-23 11:05:02,564:INFO:Starting compare saved model with new model
+2024-03-23 11:05:02,564:INFO:Saved model completed
+2024-03-23 11:05:02,564:INFO:Starting save model to disk
+2024-03-23 11:05:02,566:INFO:Save model to disk completed
+2024-03-23 11:05:02,566:INFO:Starting compare saved model with new model
+2024-03-23 11:05:02,566:INFO:Saved model completed
+2024-03-23 11:05:02,566:INFO:Starting save model to disk
+2024-03-23 11:05:02,568:INFO:Save model to disk completed
+2024-03-23 11:05:02,570:INFO:Starting compute metrics
+2024-03-23 11:05:02,571:INFO:Compute metrics completed
+2024-03-23 11:05:02,580:INFO:Train completed
+2024-03-23 12:10:43,067:INFO:Starting train
+2024-03-23 12:10:43,069:INFO:Starting load train and test datasets
+2024-03-23 12:10:43,110:INFO:Load train and test datasets completed
+2024-03-23 12:10:43,110:INFO:Starting make linear regressor
+2024-03-23 12:10:43,110:INFO:Make linear regressor completed
+2024-03-23 12:10:43,110:INFO:Starting make knn regressor
+2024-03-23 12:10:43,110:INFO:Make knn regressor completed
+2024-03-23 12:10:47,387:INFO:Starting load model from disck
+2024-03-23 12:10:47,388:INFO:Load model from disck completed
+2024-03-23 12:10:47,388:INFO:Starting compare saved model with new model
+2024-03-23 12:10:47,388:INFO:Saved model completed
+2024-03-23 12:10:47,388:INFO:Starting save model to disk
+2024-03-23 12:10:47,390:INFO:Save model to disk completed
+2024-03-23 12:10:47,391:INFO:Starting compare saved model with new model
+2024-03-23 12:10:47,391:INFO:Saved model completed
+2024-03-23 12:10:47,391:INFO:Starting save model to disk
+2024-03-23 12:10:47,395:INFO:Save model to disk completed
+2024-03-23 12:10:47,398:INFO:Starting compute metrics
+2024-03-23 12:10:47,400:INFO:Compute metrics completed
+2024-03-23 12:10:47,408:INFO:Train completed
